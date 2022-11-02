@@ -10,7 +10,8 @@ Kullanılan Teknolojiler
 PROJE TANIMI:
 Ekşi Sözlük sitesi baz alınarak yapısal olarak .net üzerinde gelirilmiştir.
 
-Youtube:https://youtu.be/g9MVQnYOpQo
+Youtube Videosu:https://youtu.be/g9MVQnYOpQo
+Eğitimin Videosu:https://www.youtube.com/watch?v=yFToRUL6h8A&list=PLKnjBHu2xXNNQJehhCg--CzQQMHXTsFAb
 
 # PROJE GÖRSELLERİ
 
