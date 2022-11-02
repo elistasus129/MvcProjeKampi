@@ -7,11 +7,15 @@ Kullanılan Teknolojiler
 5)N-TIER A ARCHITECTURE
 6)Entity Framework
 
-PROJE TANIMI:
+# PROJE TANIMI:
 Ekşi Sözlük sitesi baz alınarak yapısal olarak .net üzerinde gelirilmiştir.
 
-Youtube Videosu:https://youtu.be/g9MVQnYOpQo
-Eğitimin Videosu:https://www.youtube.com/watch?v=yFToRUL6h8A&list=PLKnjBHu2xXNNQJehhCg--CzQQMHXTsFAb
+# Youtube Videosu:
+https://youtu.be/g9MVQnYOpQo
+
+
+# Eğitimin Videosu:
+https://www.youtube.com/watch?v=yFToRUL6h8A&list=PLKnjBHu2xXNNQJehhCg--CzQQMHXTsFAb
 
 # PROJE GÖRSELLERİ
 
